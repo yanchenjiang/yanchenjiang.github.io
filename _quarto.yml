@@ -15,7 +15,7 @@ website:
 
 format:
   html:
-    theme: united
+    theme: cosmos
     css: styles.css
     toc: true
 

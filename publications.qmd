@@ -1,0 +1,17 @@
+---
+title: "Publications & Projects"
+editor: visual
+---
+
+[*Google Scholar Profile.*](https://scholar.google.com/citations?user=ULefWRkAAAAJ&hl=en)
+
+## Academic Publications
+
+# First author publications
+
+*\* Denotes equal contribution.*
+
+**1. Data Market Design through Deep Learning
+**, Sai Srivatsa Ravindranath\*, Yanchen Jiang\*, David C. Parkes. Advances in Neural Information Processing Systems 36 (2024). [publication](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1577ea3eaf8dacb99f64e4496c3ecddf-Abstract-Conference.html) [preprint](https://arxiv.org/pdf/2310.20096)
+
+**2. Strategy-Proof Multi-Bidder Auctions Through Deep Learning **, Tonghan Wang\*, Yanchen Jiang\*, David C. Parkes. Accepted at the Twenty-Fifth ACM Conference on Economics and Computation (EC'24), 2024. Preprint (soon to come).
