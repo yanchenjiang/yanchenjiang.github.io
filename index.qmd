@@ -9,19 +9,19 @@ about:
   links:
     # - icon: twitter
     #   text: Twitter
-    #   href: https://twitter.com/lizilla93
+    #   href: 
     # - icon: github
     #   text: Github
-    #   href: https://github.com/elizabethmcd
+    #   href: 
     - icon: email
       text: Email
-      href: yanchen_jiang@g.harvard.edu
+      href: mailto:yanchen_jiang@g.harvard.edu
     # - icon: CV
     #   text: CV
-    #   href: https://github.com/elizabethmcd/cv/blob/master/EAM-CV.pdf
+    #   href: 
     # - icon: linkedin
     #   text: LinkedIn
-    #   href: https://www.linkedin.com/in/elizabeth-mcdaniel-228012a0/
+    #   href: 
 ---
 
 Hello! My name is Yanchen Jiang (I also use the name Jeff).
