@@ -1,5 +1,5 @@
 ---
-title: Yanchen (Jeff) Jiang
+title: Yanchen Jiang (Jeff Jiang)
 image: img/profile.jpg
 page-layout: full
 about:
@@ -24,7 +24,7 @@ about:
     #   href: 
 ---
 
-Hello! My name is Yanchen Jiang (I also use the name Jeff).
+Hello! My name is Yanchen Jiang (I also use the name Jeff Jiang).
 
 I'm a second year Computer Science PhD candidate at Harvard University, advised by Professor [David Parkes](https://parkes.seas.harvard.edu/) and Professor [Yiling Chen](https://yiling.seas.harvard.edu/). My research interests lie in leveraging machine learning to study EconCS, decision-making, and multi-agent AI. 
 
