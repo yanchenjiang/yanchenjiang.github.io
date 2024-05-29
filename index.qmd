@@ -28,7 +28,7 @@ Hello! My name is Yanchen Jiang (I also use the name Jeff Jiang).
 
 I'm a second year Computer Science PhD candidate at Harvard University, advised by Professor [David Parkes](https://parkes.seas.harvard.edu/) and Professor [Yiling Chen](https://yiling.seas.harvard.edu/). My research interests lie in leveraging machine learning to study EconCS, decision-making, and multi-agent AI. 
 
-I obtained my Bachelor's degree from Harvard University in 2022, with a major (joint concentration) in Computer Science and Mathematics and a minor (secondary) in Statistics.
+I obtained my Bachelor's degree from Harvard College in 2022, with a major (joint concentration) in Computer Science and Mathematics and a minor (secondary) in Statistics.
 
 I have been the Head TA of Harvard's **CS136: Economics and Computation** in Fall 2023, and a TA for the same course (CS136) in Fall 2021.
 
