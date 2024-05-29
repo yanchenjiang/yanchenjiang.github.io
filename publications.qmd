@@ -7,7 +7,7 @@ editor: visual
 
 ## Academic Publications
 
-*\* Denotes equal contribution.*
+*\* indicates equal contribution.*
 
 **1. Data Market Design through Deep Learning
 **, Sai Srivatsa Ravindranath\*, **Yanchen Jiang\* **, David C. Parkes. Advances in Neural Information Processing Systems 36 (NeurIPS 2024). [Publication](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1577ea3eaf8dacb99f64e4496c3ecddf-Abstract-Conference.html),  [Preprint ](https://arxiv.org/abs/2310.20096)
