@@ -23,7 +23,7 @@ Sai Srivatsa Ravindranath\*, **Yanchen Jiang\* **, David C. Parkes. <br>Advances
 ($\alpha$-$\beta$) Constantinos Daskalakis, Ian Gemp, **Yanchen Jiang**, Renato Paes Leme, Christos Papadimitriou, Georgios Piliouras. <br>[NeurIPS 2024 Creative AI ](https://neurips.cc/virtual/2024/105446), to appear.
 
 **<span style="color:darkblue">2. Evidence from the Synthetic Laboratory:
-Language Models as Auction Participants</span>** <br>Anand Shah*, Kehang Zhu*, **Yanchen Jiang**, Kerem Dayi, Jeffery Wang, John J. Horton, David C. Parkes. <br>
+Language Models as Auction Participants</span>** <br>Anand Shah\*, Kehang Zhu\*, **Yanchen Jiang**, Kerem Dayi, Jeffery Wang, John J. Horton, David C. Parkes. <br>
 EC'24 contributed poster session; NeurIPS 2024 Workshop on Behavioral Machine Learning, to appear. [Preprint ](https://openreview.net/pdf?id=FB9mTtJpJI).
 
 #### Preprints in submission:
