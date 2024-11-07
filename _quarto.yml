@@ -12,6 +12,8 @@ website:
         text: Publications & Projects
       - href: contact.qmd
         text: Contact
+      - href: doc/yanchenjiang_CV.pdf
+        text: CV
 
 format:
   html:
