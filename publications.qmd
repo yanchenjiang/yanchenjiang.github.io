@@ -29,4 +29,4 @@ EC'24 contributed poster session; NeurIPS 2024 Workshop on Behavioral Machine Le
 #### Preprints in submission:
 
 **<span style="color:darkblue">1. On Diffusion Models for Multi-Agent Partial Observability: Shared Attractors, Error Bounds, and Composite Flow</span>** <br>
-Tonghan Wang*, Heng Dong*, **Yanchen Jiang**, David C. Parkes, Milind Tambe. [Preprint ](https://arxiv.org/abs/2410.13953).
+Tonghan Wang\*, Heng Dong\*, **Yanchen Jiang**, David C. Parkes, Milind Tambe. [Preprint ](https://arxiv.org/abs/2410.13953).
