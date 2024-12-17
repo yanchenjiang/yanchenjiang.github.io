@@ -11,7 +11,7 @@ editor: visual
 
 #### Conference Publications:
 
-[**1. GemNet: Menu-Based, Strategy-Proof Multi-Bidder Auctions Through Deep Learning**]{style="color:darkblue"} <br> Tonghan Wang\*, **Yanchen Jiang\*** , David C. Parkes. <br>The Twenty-Fifth ACM Conference on Economics and Computation (EC'24), [Preprint](https://arxiv.org/abs/2406.07428). <br> [ **Won *Exemplary Paper Award* for the AI track (presented at the Best EC 24 papers plenary session).** ]{style="color:darkred;background-color: yellow"}
+[**1. GemNet: Menu-Based, Strategy-Proof Multi-Bidder Auctions Through Deep Learning**]{style="color:darkblue"} <br> Tonghan Wang\*, **Yanchen Jiang\*** , David C. Parkes. <br>The Twenty-Fifth ACM Conference on Economics and Computation (EC'24), [Publication](https://dl.acm.org/doi/10.1145/3670865.3673454), [Preprint](https://arxiv.org/abs/2406.07428). <br> [ **Won *Exemplary Paper Award* for the AI track (presented at the Best EC 24 papers plenary session).** ]{style="color:darkred;background-color: yellow"}
 
 [**2. Data Market Design through Deep Learning**]{style="color:darkblue"} <br> Sai Srivatsa Ravindranath\*, **Yanchen Jiang\*** , David C. Parkes. <br>Advances in Neural Information Processing Systems 36 (NeurIPS 2023). [Publication](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1577ea3eaf8dacb99f64e4496c3ecddf-Abstract-Conference.html), [Preprint](https://arxiv.org/abs/2310.20096).
 
