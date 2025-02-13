@@ -24,3 +24,7 @@ editor: visual
 
 [**2. Evidence from the Synthetic Laboratory: Language Models as Auction Participants**]{style="color:darkblue"} <br>Anand Shah\*, Kehang Zhu\*, **Yanchen Jiang**, Kerem Dayi, Jeffery Wang, John J. Horton, David C. Parkes. <br> EC'24 contributed poster session; NeurIPS 2024 Workshop on Behavioral Machine Learning. [Preprint](https://openreview.net/pdf?id=FB9mTtJpJI).
 
+#### Preprints and Working Papers:
+
+[**1. LLM-Powered Preference Elicitation in Combinatorial Assignment**]{style="color:darkblue"} <br> Ermis Soumalias\*, **Yanchen Jiang\***, Kehang Zhu\*, Michael Curry, Sven Seuken, David C. Parkes. <br> <em>Preprint, to be available on arXiv on February 13, 2025.</em>
+
