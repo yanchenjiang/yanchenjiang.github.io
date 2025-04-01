@@ -28,3 +28,11 @@ editor: visual
 #### Preprints and Working Papers:
 
 [**1. LLM-Powered Preference Elicitation in Combinatorial Assignment**]{style="color:darkblue"} <br> Ermis Soumalias\*, **Yanchen Jiang\***, Kehang Zhu\*, Michael Curry, Sven Seuken, David C. Parkes. <br> arXiv [Preprint](https://arxiv.org/abs/2502.10308).
+
+[**2. BundleFlow: Deep Menus for Combinatorial Auctions by Diffusion-Based Optimization**]{style="color:darkblue"} <br> Tonghan Wang, **Yanchen Jiang**, David C. Parkes. <br> arXiv [Preprint](https://arxiv.org/abs/2502.15283).
+
+#### Survey Papers and Research Letters:
+
+[**1. Automated Mechanism Design: A Survey**]{style="color:darkblue"} <br> Michael J. Curry, Zhou Fan, **Yanchen Jiang**, Sai Srivatsa Ravindranath, Tonghan Wang, David
+C. Parkes. <br> ACM SIGecom Exchanges, volume 22, issue 2,
+March 2025. [Publication](https://www.sigecom.org/exchanges/volume_22/2/CURRY.pdf).
