@@ -11,7 +11,7 @@ editor: visual
 
 #### Selected Conference Publications:
 
-[**1. Duality for Optimal Multi-Item, Multi-Bidder Auction Design: Revenue Certificates through Deep Learning**]{style="color:darkblue"} <br> **Yanchen Jiang**, David C. Parkes, Tonghan Wang. <br> The Twenty-Seventh ACM Conference on Economics and Computation (EC'26). [Preprint](https://arxiv.org/pdf/2606.10112).
+[**1. Duality for Optimal Multi-Item, Multi-Bidder Auction Design: Revenue Certificates through Deep Learning**]{style="color:darkblue"} <br> **Yanchen Jiang**, David C. Parkes, Tonghan Wang. <br> The Twenty-Seventh ACM Conference on Economics and Computation (EC'26). [Preprint](https://arxiv.org/abs/2606.10112).
 
 [**2. Incentive-Aligned Multi-Source LLM Summaries**]{style="color:darkblue"} <br> **Yanchen Jiang**, Zhe Feng, Aranyak Mehta. <br> ICLR 2026. [Preprint](https://arxiv.org/abs/2509.25184).
 
@@ -40,9 +40,12 @@ editor: visual
 
 #### Preprints and Working Papers:
 
-[**1. LLM-Powered Preference Elicitation in Combinatorial Assignment**]{style="color:darkblue"} <br> Ermis Soumalias\*, **Yanchen Jiang\***, Kehang Zhu\*, Michael Curry, Sven Seuken, David C. Parkes. <br> arXiv [Preprint](https://arxiv.org/abs/2502.10308).
+[**1. One Model, Two Markets: Bid-Aware Generative Recommendation**]{style="color:darkblue"} <br> **Yanchen Jiang**, Zhe Feng, Christopher P. Mah, Aranyak Mehta, Di Wang <br> arXiv [Preprint](https://arxiv.org/abs/2603.22231v1).
 
-[**2. LLM Active Alignment: A Nash Equilibrium Perspective**]{style="color:darkblue"} <br> Tonghan Wang, Yuqi Pan, Xinyi Yang, **Yanchen Jiang**, Milind Tambe, David C. Parkes. <br> arXiv [Preprint](https://arxiv.org/pdf/2602.06836).
+[**2. LLM Active Alignment: A Nash Equilibrium Perspective**]{style="color:darkblue"} <br> Tonghan Wang, Yuqi Pan, Xinyi Yang, **Yanchen Jiang**, Milind Tambe, David C. Parkes. <br> arXiv [Preprint](https://arxiv.org/abs/2602.06836).
+
+
+[**3. LLM-Powered Preference Elicitation in Combinatorial Assignment**]{style="color:darkblue"} <br> Ermis Soumalias\*, **Yanchen Jiang\***, Kehang Zhu\*, Michael Curry, Sven Seuken, David C. Parkes. <br> arXiv [Preprint](https://arxiv.org/abs/2502.10308).
 
 #### Survey Papers and Research Letters:
 
