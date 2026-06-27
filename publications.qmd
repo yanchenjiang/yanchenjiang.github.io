@@ -17,7 +17,9 @@ editor: visual
 
 [**3. BundleFlow: Deep Menus for Combinatorial Auctions by Diffusion-Based Optimization**]{style="color:darkblue"} <br> Tonghan Wang, **Yanchen Jiang**, David C. Parkes. <br> NeurIPS 2025 [Preprint](https://arxiv.org/abs/2502.15283).
 
-[**4. GemNet: Menu-Based, Strategy-Proof Multi-Bidder Auctions Through Deep Learning**]{style="color:darkblue"} <br> Tonghan Wang\*, **Yanchen Jiang\*** , David C. Parkes. <br>The Twenty-Fifth ACM Conference on Economics and Computation (EC'24), [Publication](https://dl.acm.org/doi/10.1145/3670865.3673454), [Preprint](https://arxiv.org/abs/2406.07428). <br> [**Won *Exemplary Paper Award* (awarded to the best paper in track) for the AI track, presented at the Best EC 24 papers plenary session.**]{style="color:darkred;background-color: yellow"}
+[**4. GemNet: Menu-Based, Strategy-Proof Multi-Bidder Auctions Through Deep Learning**]{style="color:darkblue"} <br> Tonghan Wang\*, **Yanchen Jiang\*** , David C. Parkes. <br>The Twenty-Fifth ACM Conference on Economics and Computation (EC'24), [Publication](https://dl.acm.org/doi/10.1145/3670865.3673454), [Preprint](https://arxiv.org/abs/2406.07428).
+<br>
+<span style="color:darkred; background-color:yellow; font-weight:bold;"> <a href="https://ec24.sigecom.org/program/main-technical-program/index.html#:~:text=Exemplary%20AI%20Track%20Paper" style="color:darkred;"><em>Won the EC'24 Exemplary AI Track Paper Award</em></a>, the AI track’s best-paper recognition, and was presented in the Best EC'24 Papers plenary session. </span>
 
 [**5. Data Market Design through Deep Learning**]{style="color:darkblue"} <br> Sai Srivatsa Ravindranath\*, **Yanchen Jiang\*** , David C. Parkes. <br>Advances in Neural Information Processing Systems 36 (NeurIPS 2023). [Publication](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1577ea3eaf8dacb99f64e4496c3ecddf-Abstract-Conference.html), [Preprint](https://arxiv.org/abs/2310.20096).
 
@@ -31,7 +33,6 @@ editor: visual
 
 [**2. The Prosocial Ranking Challenge: Reducing Polarization on Social Media without Sacrificing Engagement**]{style="color:darkblue"} <br> Jonathan Stray, Ian Baker, George Beknazar-Yuzbashev, Ceren Budak, Julia Kamin, Kylan Rutherford, Mateusz Stalinski, Tin Acosta, Chris Bail, Michael Bernstein, Mark Brandt, Amy Bruckman, Anshuman Chhabra, Soham De, Kayla Duskin, Sara Fish, Beth Goldberg, Andy Guess, Dylan Hadfield-Menell, Muhammed Haroon, Safwan Hossain, Michael Inzlicht, Gauri Jain, **Yanchen Jiang**, et al. <br> arXiv preprint arXiv:2603.19626, 2026. [Preprint](https://arxiv.org/pdf/2603.19626).
 
-
 #### Workshop and Exhibition Papers:
 
 [**1. Charting the Shapes of Stories with Game Theory**]{style="color:darkblue"} <br> ($\alpha$-$\beta$) Constantinos Daskalakis, Ian Gemp, **Yanchen Jiang**, Renato Paes Leme, Christos Papadimitriou, Georgios Piliouras. <br>[Preprint](https://arxiv.org/abs/2412.05747), [NeurIPS 2024 Creative AI](https://neurips.cc/virtual/2024/105446).
@@ -43,7 +44,6 @@ editor: visual
 [**1. One Model, Two Markets: Bid-Aware Generative Recommendation**]{style="color:darkblue"} <br> **Yanchen Jiang**, Zhe Feng, Christopher P. Mah, Aranyak Mehta, Di Wang <br> arXiv [Preprint](https://arxiv.org/abs/2603.22231v1).
 
 [**2. LLM Active Alignment: A Nash Equilibrium Perspective**]{style="color:darkblue"} <br> Tonghan Wang, Yuqi Pan, Xinyi Yang, **Yanchen Jiang**, Milind Tambe, David C. Parkes. <br> arXiv [Preprint](https://arxiv.org/abs/2602.06836).
-
 
 [**3. LLM-Powered Preference Elicitation in Combinatorial Assignment**]{style="color:darkblue"} <br> Ermis Soumalias\*, **Yanchen Jiang\***, Kehang Zhu\*, Michael Curry, Sven Seuken, David C. Parkes. <br> arXiv [Preprint](https://arxiv.org/abs/2502.10308).
 
